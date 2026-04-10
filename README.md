@@ -1,23 +1,38 @@
-# AWS EC2 Web Server
+# ☁️ AWS Cloud Projects
 
-## Project Overview
-Deployed a production-style web server using AWS EC2 and Nginx.
+> A collection of practical, hands-on AWS projects built to develop real-world cloud engineering skills.
 
-## Steps Performed
-1. Launched EC2 instance (Ubuntu)
-2. Connected using SSH
-3. Updated system
-4. Installed Nginx
-5. Hosted website
+---
 
-## Output
-Successfully hosted website using EC2 public IP.
+## 🎯 What is this?
 
-## Tools Used
-- AWS EC2
-- Linux
-- Nginx
+This repository contains my hands-on AWS projects where I learn by doing —
+setting up real infrastructure, solving real problems, and documenting every step along the way.
 
-## Author
+Each project lives in its own folder with a full setup guide and all the config files you need to follow along.
+
+---
+
+## 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📂 Explore the Projects
+
+Browse the folders in this repo — each one is a standalone project with its own `README.md` and step-by-step guide.
+
+---
+
+## 🌱 Always Growing
+
+New projects are added regularly as I explore more AWS services and build more skills.
+
+> ⭐ Star this repo to follow along with the journey!
+
 Shiraz Siddiqui<img width="679" height="267" alt="nginx page" src="https://github.com/user-attachments/assets/5545e331-1925-4806-99ae-8d3b4df73bd0" />
 <img width="1120" height="431" alt="ec2 hosted website " src="https://github.com/user-attachments/assets/38552f09-7b98-4c23-be80-7917e4e10abd" />
