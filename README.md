@@ -33,6 +33,3 @@ Browse the folders in this repo — each one is a standalone project with its ow
 New projects are added regularly as I explore more AWS services and build more skills.
 
 > ⭐ Star this repo to follow along with the journey!
-
-Shiraz Siddiqui<img width="679" height="267" alt="nginx page" src="https://github.com/user-attachments/assets/5545e331-1925-4806-99ae-8d3b4df73bd0" />
-<img width="1120" height="431" alt="ec2 hosted website " src="https://github.com/user-attachments/assets/38552f09-7b98-4c23-be80-7917e4e10abd" />
