@@ -1,4 +1,4 @@
-# ☁️ Project 3 — Day 2: CloudWatch Alarms + SNS Notifications
+# ☁️ Project-4 CloudWatch Alarms + SNS Notifications
 
 ## 🎯 Goal
 
